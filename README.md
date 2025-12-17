@@ -68,4 +68,5 @@ PRECAUTIONS:
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
 
 RESULT:
+
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
