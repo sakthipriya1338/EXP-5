@@ -29,9 +29,35 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+LINE REGULATION:
 
-V-I & REGULATION CHARACTERISTICS:
+| S.No | Input Voltage (V) | Output Voltage (V) |
+|------|-------------------|--------------------|
+| 1    | 12.0              | 5.14               |
+| 2    | 13.0              | 5.16               |
+| 3    | 14.0              | 5.17               |
+| 4    | 15.0              | 5.17               |
+| 5    | 16.0              | 5.18               |
+| 6    | 17.0              | 5.19               |
+
+
+LOAD REGULATION:
+
+| S.No | Load Resistance (Ω) | Output Voltage (V) |
+|------|---------------------|--------------------|
+| 1    | 100                 | 5.19               |
+| 2    | 200                 | 5.20               |
+| 3    | 300                 | 5.20               |
+| 4    | 400                 | 5.20               |
+| 5    | 500                 | 5.20               |
+| 6    | 600                 | 5.21               |
+
+CIRCUIT DIAGRAM:
+
+LINE AND LOAD REGULATION:
+
+<img width="1027" height="619" alt="Screenshot 2025-12-17 144709" src="https://github.com/user-attachments/assets/5de5c0f9-0372-4389-acd9-0ed6a9fe4180" />
+
 
 PRECAUTIONS:
 
